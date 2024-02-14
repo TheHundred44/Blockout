@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/FPS/Scenes/IntroMenu.unity
+    guid: 56e3faabc5bb30f49a68bb8f1292f988
+  - enabled: 1
     path: Assets/Scenes/Levels_Correction/Level1_Modif.unity
     guid: 0a022341e35c1b0408f6db3b76ec641b
   - enabled: 1
@@ -35,6 +38,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/LoseScenes/LoseScene5.unity
     guid: 007c4ff827af9344fa134d296e8b5547
+  - enabled: 1
+    path: Assets/Scenes/LoseScenes/LoseSceneB1.unity
+    guid: 3cc6922ac75eba84c8bf108cc6c282ab
+  - enabled: 1
+    path: Assets/Scenes/LoseScenes/LoseSceneB2.unity
+    guid: a6be5b8f1bec48e47be8065289573ddc
+  - enabled: 1
+    path: Assets/Scenes/LoseScenes/LoseSceneB3.unity
+    guid: a0e71e0b9910e754a94e6f52f394779b
   - enabled: 1
     path: Assets/FPS/Scenes/WinScene.unity
     guid: 037d06fbede2b4041a843d9ee6fe750c
